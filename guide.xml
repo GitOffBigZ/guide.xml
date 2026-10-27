@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Studio360Visuals-IPTV-Generator">
+
+  <!-- ==================== CHAINES DE SPORT ==================== -->
+  <channel id="30AGolfKingdom.us@SD">
+    <display-name lang="fr">30A Golf Kingdom (720p)</display-name>
+    <icon src="https://i.imgur.com/Lv53nh4.png" />
+  </channel>
+  <channel id="ASpor.tr@SD">
+    <display-name lang="fr">A Spor SD (1080p)</display-name>
+    <icon src="https://i.imgur.com/ZhkZzLf.png" />
+  </channel>
+  <channel id="ACCDigitalNetwork.us@SD">
+    <display-name lang="fr">ACC Digital Network (1080p)</display-name>
+    <icon src="https://i.imgur.com/V6Kaqha.png" />
+  </channel>
+  <channel id="ACCNetwork.us@SD">
+    <display-name lang="fr">ACC Network (720p)</display-name>
+    <icon src="https://i.imgur.com/TpCkbkT.png" />
+  </channel>
+  <channel id="ACISportTV.it@SD">
+    <display-name lang="fr">ACI Sport TV SD (1080p)</display-name>
+    <icon src="https://i.imgur.com/U8cHMOt.png" />
+  </channel>
+  <channel id="Africa24Sport.fr@SD">
+    <display-name lang="fr">Africa 24 Sport (1080p)</display-name>
+    <icon src="https://i0.wp.com/africa24tv.com/wp-content/uploads/2023/12/LOGO-AFRICASPORT-4-HD-sans-fond.png?fit=512%2C107&amp;ssl=1" />
+  </channel>
+  <channel id="AlIraqiaSport.iq@SD">
+    <display-name lang="fr">Al Iraqia Sport (720p)</display-name>
+    <icon src="https://i.imgur.com/DrrlxTO.png" />
+  </channel>
+  <channel id="AmericanNinjaWarrior.us@SD">
+    <display-name lang="fr">American Ninja Warrior (1080p)</display-name>
+    <icon src="https://raw.githubusercontent.com/RoqueDJ/iptv-svg/main/1792421696158.png" />
+  </channel>
+  <channel id="Arena4.hu@SD">
+    <display-name lang="fr">Arena4</display-name>
+    <icon src="https://i.imgur.com/uAaQDr6.png" />
+  </channel>
+  <channel id="ArenaSport1.sk@SD">
+    <display-name lang="fr">Arena Sport 1</display-name>
+    <icon src="https://i.imgur.com/2qf67zW.png" />
+  </channel>
+  <channel id="ArenaSport2.sk@SD">
+    <display-name lang="fr">Arena Sport 2</display-name>
+    <icon src="https://i.imgur.com/Yq3Jf19.png" />
+  </channel>
+  <channel id="Arryadia.ma@SD">
+    <display-name lang="fr">Arryadia (720p)</display-name>
+    <icon src="https://i.imgur.com/XjzK3gZ.png" />
+  </channel>
+  <channel id="AS3SportTV.ve@SD">
+    <display-name lang="fr">AS3 Sport TV (1080p)</display-name>
+    <icon src="https://i.ibb.co/bRmGbsyV/A3-SPORTTV.jpg" />
+  </channel>
+  <channel id="AstrahanRuSport.ru@SD">
+    <display-name lang="fr">Astrahan.Ru Sport (720p)</display-name>
+    <icon src="https://i.imgur.com/BKaEtqL.png" />
+  </channel>
+  <channel id="ATGLive.se@SD">
+    <display-name lang="fr">ATG Live (720p)</display-name>
+    <icon src="https://i.imgur.com/bPWFXkL.png" />
+  </channel>
+  <channel id="AyMSports.mx@SD">
+    <display-name lang="fr">AyM Sports (1080p)</display-name>
+    <icon src="https://i.imgur.com/yu3Bpbd.png" />
+  </channel>
+  <channel id="BahrainSports1.bh@SD">
+    <display-name lang="fr">Bahrain Sports 1 (720p)</display-name>
+    <icon src="https://i.imgur.com/fBpLsbC.png" />
+  </channel>
+  <channel id="BahrainSports2.bh@SD">
+    <display-name lang="fr">Bahrain Sports 2 (720p)</display-name>
+    <icon src="https://i.imgur.com/ZkuZmIo.png" />
+  </channel>
+  <channel id="beINSPORTSXTRA.us@SD">
+    <display-name lang="fr">beIN SPORTS XTRA (1080p)</display-name>
+    <icon src="https://i.ibb.co/HT49GPmB/XTRA-2.png" />
+  </channel>
+  <channel id="BEKSports.us@West">
+    <display-name lang="fr">BEK Sports West (720p)</display-name>
+    <icon src="https://i.imgur.com/1l3t5jd.png" />
+  </channel>
+  <channel id="Belarus5.by@SD">
+    <display-name lang="fr">Belarus-5 (1080p)</display-name>
+    <icon src="https://i.imgur.com/NJsRFud.png" />
+  </channel>
+  <channel id="Belarus5.by@HD">
+    <display-name lang="fr">Belarus-5 HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/NJsRFud.png" />
+  </channel>
+  <channel id="BellatorMMA.us@SD">
+    <display-name lang="fr">Bellator MMA</display-name>
+    <icon src="https://i.imgur.com/VBKoLHk.png" />
+  </channel>
+  <channel id="BrondbyTV.se@DK">
+    <display-name lang="fr">Brondby TV</display-name>
+    <icon src="https://images.pluto.tv/channels/685029cda1e091e16ff57fc8/colorLogoPNG_1750246109707.png" />
+  </channel>
+  <channel id="CanalShowsport.ar@SD">
+    <display-name lang="fr">Canal Showsport (720p)</display-name>
+    <icon src="https://i.imgur.com/0L9tW3Z.png" />
+  </channel>
+  <channel id="CanalPlusSport2SK.sk@SD">
+    <display-name lang="fr">Canal+ Sport 2 SK</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/a/ab/CANAL%2B_SPORT_2.svg/revision/latest?cb=20241028202739" />
+  </channel>
+  <channel id="CazeTV.br@SD">
+    <display-name lang="fr">CazeTV</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" />
+  </channel>
+  <channel id="CBSSportsGolazoNetwork.us@SD">
+    <display-name lang="fr">CBS Sports Golazo Network (720p)</display-name>
+    <icon src="https://i.imgur.com/eMjutHS.png" />
+  </channel>
+  <channel id="CBSSportsHQ.us@SD">
+    <display-name lang="fr">CBS Sports HQ (720p)</display-name>
+    <icon src="https://i.imgur.com/q8BENJg.png" />
+  </channel>
+  <channel id="CCTV5Plus.cn@SD">
+    <display-name lang="fr">CCTV-5+ (1080p)</display-name>
+    <icon src="https://i.imgur.com/OK8mdJV.png" />
+  </channel>
+  <channel id="CCTV16.cn@HD">
+    <display-name lang="fr">CCTV-16 HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/ZzV6JQp.png" />
+  </channel>
+  <channel id="Equidia.fr@SD">
+    <display-name lang="fr">Equidia (1080p)</display-name>
+    <icon src="https://i.imgur.com/QPpbRcZ.png" />
+  </channel>
+  <channel id="LEquipe.fr@SD">
+    <display-name lang="fr">L'Equipe (1080p)</display-name>
+    <icon src="https://i.imgur.com/t35zhM9.png" />
+  </channel>
+
+  <!-- ==================== CHAINES DE FILMS ==================== -->
+  <channel id="00sReplay.us@SD">
+    <display-name lang="fr">00s Replay</display-name>
+    <icon src="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" />
+  </channel>
+  <channel id="4everCinema.ua@SD">
+    <display-name lang="fr">4ever Cinema (1080p)</display-name>
+    <icon src="https://i.imgur.com/vFOgVbG.png" />
+  </channel>
+  <channel id="24HourFreeMovies.us@SD">
+    <display-name lang="fr">24 Hour Free Movies (720p)</display-name>
+    <icon src="https://i.imgur.com/iSVnzR1.png" />
+  </channel>
+  <channel id="50CentAction.us@SD">
+    <display-name lang="fr">50 Cent Action (720p)</display-name>
+    <icon src="https://provider-static.plex.tv/epg/cms/production/bcfb9977-809f-49ae-acc7-430f2c6ffb26/50CentAction_Logo_1500x1000_DarkBG_-_Chris_Connors.png" />
+  </channel>
+  <channel id="70sCinema.us@SD">
+    <display-name lang="fr">70s Cinema</display-name>
+    <icon src="https://i.imgur.com/mgXeEE4.png" />
+  </channel>
+  <channel id="80sRewind.us@SD">
+    <display-name lang="fr">80s Rewind</display-name>
+    <icon src="https://i.imgur.com/nkEeYfI.png" />
+  </channel>
+  <channel id="90sThrowback.us@SD">
+    <display-name lang="fr">90s Throwback</display-name>
+    <icon src="https://i.imgur.com/KoGko6M.png" />
+  </channel>
+  <channel id="AndTV.in@SD">
+    <display-name lang="fr">&amp;TV (720p)</display-name>
+    <icon src="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" />
+  </channel>
+  <channel id="AlloCine.cm@SD">
+    <display-name lang="fr">Allo Cine (1080p)</display-name>
+    <icon src="https://raw.githubusercontent.com/songwenhui239/Songwenhui239/refs/heads/main/Allo%20Cine.jpeg" />
+  </channel>
+  <channel id="AMC.us@EastHD">
+    <display-name lang="fr">AMC (United States) (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/960px-AMC_logo_2019.svg.png" />
+  </channel>
+  <channel id="AXN.br@SD">
+    <display-name lang="fr">AXN (Brazil) (720p)</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" />
+  </channel>
+  <channel id="CineWestern.fr@SD">
+    <display-name lang="fr">Cine Western (France) (1080p)</display-name>
+    <icon src="https://i.imgur.com/tteOFkL.png" />
+  </channel>
+  <channel id="CinePlus.ua@SD">
+    <display-name lang="fr">Cine+</display-name>
+    <icon src="https://i.imgur.com/SAtdShq.png" />
+  </channel>
+  <channel id="Cinemax2.cz@Czechia">
+    <display-name lang="fr">Cinemax 2</display-name>
+    <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Cinemax_2_%282016%29.png/960px-Cinemax_2_%282016%29.png" />
+  </channel>
+  <channel id="HBO2.cz@SD">
+    <display-name lang="fr">HBO 2</display-name>
+    <icon src="https://static.wikia.nocookie.net/logopedia/images/8/8f/HBO_2_%28Metallic%29.png/revision/latest/scale-to-width-down/1000?cb=20190715122226" />
+  </channel>
+  <channel id="RaiMovie.it@HD">
+    <display-name lang="fr">Rai Movie HD (1080p)</display-name>
+    <icon src="https://i.imgur.com/0FjxXU9.png" />
+  </channel>
+
+  <!-- Programme fictif pour enlever les alertes de guide vide dans Threadfin/Jellyfin -->
+  <programme start="20261027000000 +0000" stop="20271231000000 +0000" channel="30AGolfKingdom.us@SD">
+    <title lang="fr">Diffusion en direct - Studio 360 Visuals</title>
+    <desc lang="fr">Programme officiel de lecture IPTV pour Jellyfin.</desc>
+  </programme>
+</tv>
